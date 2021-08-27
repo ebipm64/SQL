@@ -1,0 +1,13 @@
+Id,Department ,Name,Salary,Group_Id
+1,IT,David,70000,1
+2,Hardware,Mark,95000,2
+3,Software,Zack,45000,3
+4,IT,Maria,110000,1
+5,Financial,Atrisa,23000,4
+6,Hardware,Yasin,54000,2
+7,IT,Brian,41000,1
+8,Financial,Rhonda,76000,4
+9,Software,Mary,45000,3
+10,IT,Bill,83000,1
+11,Software,Olga,88200,3
+12,Hardware,Ebi,32000,2
