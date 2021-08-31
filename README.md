@@ -1,9 +1,17 @@
 # SQL
-I this query we are going to identify the person with highest salary in each department
-First we retrieve  the table using the query below:
+In this query we are going to identify the person with highest salary in each department
+Step 1:
+retrieve the table using the query below:
 SELECT * FROM test
 It returns the table
 PICTURE 1
+Step 2:
+Group by the departments and sort them base off the salary in each department
+Picture 2
+Step3: 
+Return the data with max salary in each department
+
+
 
 
 
