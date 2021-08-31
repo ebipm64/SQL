@@ -20,3 +20,4 @@ with cte as
 from test) 
 select name,department,salary from cte
 where salary_rank =1
+Picture 3
