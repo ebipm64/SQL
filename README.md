@@ -6,3 +6,5 @@ CODE 3: In this query we idenfied a person in "Hardware" department with second 
 CODE 4: We are going to classify the total_fare(fare+extra+tax+tip) from table taxi as "Premium", "MEDIUM" and "REGULAR" classes. At the first we sum all amounts as a total_fare and then 
 categorize them(Picture 5)
 
+CODE 5: Identify the 5 last rows in the table PAYMENT base on the all done transaction by each customer and date less than 85 $.
+
