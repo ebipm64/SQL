@@ -8,5 +8,5 @@ categorize them(Picture 5)
 
 CODE 5: Identify the last  5 record in the table PAYMENT base on  all done transaction by each customer which is less than 85 $(Picture 6)
 
-CODE 6: Find the duplicate rows in the table(Picture 7)
+CODE 6: Find the duplicate rows in the table Duplicate (Picture 7)
 
