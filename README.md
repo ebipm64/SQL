@@ -11,4 +11,4 @@ CODE 5: Identify the last  5 record in the table PAYMENT base on  all done trans
 CODE 6: Find the duplicate rows in the table Duplicate (Picture 7)
 
 CODE 7: Find the the customer with total_amount < 150. First, We should join two table payment and customer then find total_amount<150 associated with customer using GROUP BY funtion and HAVING function(Picture 8)
-
+CODE 8: Find the worker with same salary(Picture 9)
